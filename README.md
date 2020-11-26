@@ -1,12 +1,12 @@
-# :books: Hoje eu aprendi - Matriz
-<p>Meu primeiro exercício com Matriz.</p>
+# :books: Hoje eu aprendi - Função e Classe
+<p>Meu primeiro exercício sobre Função e Classe.</p>
 
 <br>
 <br>
 
 ## :blue_book: Objetivo
 
-O objetivo desse exercício é fundamentar através da prática os conceitos de Matriz usando Java.
+O objetivo desse exercício é fundamentar através da prática os conceitos de Função e Classe usando Java.
 
 <br>
 <br>
